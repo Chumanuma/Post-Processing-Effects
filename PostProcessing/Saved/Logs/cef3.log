@@ -1,0 +1,4 @@
+[44688:7076:0419/204239.300:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[44688:7076:0419/204239.487:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[40724:53136:0419/204304.938:ERROR:frame_impl.cc(537)] frame 5-7707CA5A70EF733E102422AA815F9CEF connection timeout
+[44688:7076:0419/220721.786:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
