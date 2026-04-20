@@ -35,7 +35,7 @@ Select both points and right click one of them, then click User so that the line
 You can copy and paste for most of the next two blueprints:
 <img width="1310" height="405" alt="image" src="https://github.com/user-attachments/assets/a6755da7-58ad-46aa-8409-c5826be607fc" />
 
-The one above is the same thing with some name changes and a lerp node to go backt o 0 when the blend weight is 1.
+The one above is the same thing with some name changes and a lerp node to go back to 0 when the blend weight is 1.
 Self explanatory, but it will remove the effect when all is said and done.
 
 The third blueprint is this one below:
