@@ -24,10 +24,12 @@ Then make sure ALL of them have blend weight set to 0.0 to essentially make non-
 Here is the blueprint you must craft next:
 <img width="1331" height="462" alt="image" src="https://github.com/user-attachments/assets/0ebd3921-3dfc-45a8-9cc8-8f05261f6a35" />
 
-This is essentially drawing from an array of post process component class then changing the blend weight
+This is essentially drawing from an array of post process component class then changing the blend weight.
 The yellow node "PostProcessRemoveValue" is a timeline node for fading the effect in and out.
 Create a timeline track with a length of 1 and proceed to make a point at 0 and 1 exactly.
-Select both points and right click one of them, then click User so that the line is curved.
+Select both points and right click one of them, then click User so that the line is curved. Timeline example below:
+
+<img width="1634" height="480" alt="image" src="https://github.com/user-attachments/assets/e6ec7342-4cc8-4d9f-b37d-3987f945250f" />
 
 
 You can copy and paste for most of the next two blueprints:
