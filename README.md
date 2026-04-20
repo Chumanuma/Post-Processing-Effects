@@ -1,4 +1,7 @@
 # Post-Processing Effects
+VIDEO:
+https://www.loom.com/share/ca968de59b8b4cb4974fd93be65fcd2a
+
 
 Controls for different effects:
 Number keys at the top of the keyboard, HOLD the button to maintain the effect as releasing the key will cease the effect.
